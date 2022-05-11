@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/b05504051/CVAE/save//model_6.ckpt-6"
+all_model_checkpoint_paths: "/home/b05504051/CVAE/save//model_6.ckpt-6"
